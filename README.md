@@ -27,7 +27,8 @@ La organización del repositorio sigue las asignaturas y módulos principales de
 ├── MIA/                # Modelos de Inteligencia Artificial
 ├── proyectos/          # Proyectos del curso
 ├── recursos/           # Documentos y recursos adicionales
-└── README.md       
+└── README.md   
+```
 
 
 ## 🚀 Tecnologías y Herramientas
