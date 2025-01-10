@@ -1,0 +1,29 @@
+version: '3.7'
+services:
+  hadoop:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+    container_name: namenode
+    environment:
+      - CLUSTER_NAME=test
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - hadoop_data:/hadoop/dfs/name
+
+  flume:
+    build:
+      context: .
+    container_name: flume
+    depends_on:
+      - hadoop
+    environment:
+      - HADOOP_HOME=/usr/local/hadoop
+      - FLUME_HOME=/usr/local/flume
+    ports:
+      - "44444:44444"
+    volumes:
+      - ./flume-conf.properties:/usr/local/flume/conf/flume-conf.properties
+
+volumes:
+  hadoop_data:
