@@ -70,7 +70,3 @@ Asegúrate de instalar las dependencias necesarias especificadas en los archivos
 ## 🎓 Licencia
 
 Este repositorio está bajo la licencia MIT. Consulta el archivo ` MIT` para más detalles.
-
-----------
-
-¡Gracias por visitar este repositorio! No dudes en contactar si tienes dudas o sugerencias.
