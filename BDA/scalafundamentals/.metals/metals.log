@@ -1,0 +1,327 @@
+2025.02.12 12:06:25 INFO  Started: Metals version 1.5.1 in folders '/home/ricardo/workspace/IABD/BDA/scalafundamentals' for client Visual Studio Code 1.97.0.[0m
+Feb 12, 2025 12:06:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 12:06:37 INFO  running '/home/ricardo/.cache/coursier/arc/https/github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%252B7/OpenJDK17U-jdk_x64_linux_hotspot_17.0.14_7.tar.gz/jdk-17.0.14+7/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals6847297639793751962/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.02.12 12:06:38 WARN  no build target for: /home/ricardo/workspace/IABD/BDA/scalafundamentals/project/metals.sbt[0m
+2025.02.12 12:06:37 INFO  no build target found for /home/ricardo/workspace/IABD/BDA/scalafundamentals/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.12 12:06:42 INFO  [info] welcome to sbt 1.10.7 (Eclipse Adoptium Java 17.0.14)[0m
+2025.02.12 12:06:44 INFO  [info] loading settings for project scalafundamentals-build-build from metals.sbt...[0m
+2025.02.12 12:06:44 INFO  [info] loading project definition from /home/ricardo/workspace/IABD/BDA/scalafundamentals/project/project[0m
+2025.02.12 12:06:48 INFO  [info] loading settings for project scalafundamentals-build from metals.sbt...[0m
+2025.02.12 12:06:48 INFO  [info] loading project definition from /home/ricardo/workspace/IABD/BDA/scalafundamentals/project[0m
+2025.02.12 12:06:50 INFO  [success] Generated .bloop/scalafundamentals-build.json[0m
+2025.02.12 12:06:50 INFO  [success] Total time: 2 s, completed Feb 12, 2025, 12:06:50 PM[0m
+2025.02.12 12:06:51 INFO  [info] loading settings for project scalafundamentals from build.sbt...[0m
+2025.02.12 12:06:51 INFO  [info] set current project to hello-world (in build file:/home/ricardo/workspace/IABD/BDA/scalafundamentals/)[0m
+2025.02.12 12:06:51 INFO  [success] Generated .bloop/scalafundamentals.json[0m
+2025.02.12 12:06:51 INFO  [success] Generated .bloop/scalafundamentals-test.json[0m
+2025.02.12 12:06:51 INFO  [success] Total time: 1 s, completed Feb 12, 2025, 12:06:52 PM[0m
+2025.02.12 12:06:53 INFO  time: ran 'sbt bloopInstall' in 15s[0m
+2025.02.12 12:06:53 INFO  Attempting to connect to the build server...[0m
+2025.02.12 12:06:53 INFO  Found a Bloop server running[0m
+2025.02.12 12:06:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/bsp.trace.json or /home/ricardo/.cache/metals/bsp.trace.json[0m
+2025.02.12 12:06:53 INFO  Attempting to connect to the build server...[0m
+2025.02.12 12:06:53 INFO  Found a Bloop server running[0m
+2025.02.12 12:06:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ricardo/workspace/IABD/BDA/scalafundamentals/project/.metals/bsp.trace.json or /home/ricardo/.cache/metals/bsp.trace.json[0m
+2025.02.12 12:06:53 INFO  time: Connected to build server in 0.35s[0m
+2025.02.12 12:06:53 INFO  Connected to Build server: Bloop v2.0.8[0m
+2025.02.12 12:06:53 INFO  running doctor check[0m
+2025.02.12 12:06:53 INFO  java targets: scalafundamentals-build, scalafundamentals, scalafundamentals-test[0m
+2025.02.12 12:07:04 INFO  time: indexed workspace in 10s[0m
+Feb 12, 2025 12:07:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:09:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:09:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:09:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:09:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:10:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:11:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:11:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:11:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:12:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:12:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:13:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:13:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:13:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:13:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:14:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:18:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:18:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 12:19:02 INFO  compiling scalafundamentals (23 scala sources)[0m
+2025.02.12 12:19:04 INFO  time: compiled scalafundamentals in 2.09s[0m
+Feb 12, 2025 12:19:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:19:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 12:19:26 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:19:26 INFO  time: compiled scalafundamentals in 0.51s[0m
+Feb 12, 2025 12:19:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:19:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:19:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Feb 12, 2025 12:20:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 145
+2025.02.12 12:20:09 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:20:09 INFO  time: compiled scalafundamentals in 0.8s[0m
+Feb 12, 2025 12:20:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:20:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:21:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:21:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:21:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:22:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:23:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:24:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:24:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:24:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 12:24:50 INFO  compiling scalafundamentals (23 scala sources)[0m
+2025.02.12 12:24:51 INFO  time: compiled scalafundamentals in 1.2s[0m
+2025.02.12 12:25:04 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:25:04 INFO  time: compiled scalafundamentals in 0.36s[0m
+Feb 12, 2025 12:25:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+Feb 12, 2025 12:25:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 257
+Feb 12, 2025 12:25:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 258
+Feb 12, 2025 12:25:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 266
+Feb 12, 2025 12:25:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:26:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:27:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:27:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:27:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:28:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:30:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:30:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 12:30:32 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:30:32 INFO  time: compiled scalafundamentals in 0.96s[0m
+Feb 12, 2025 12:31:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:31:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:40 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/.reports/metals-full/2025-02-12/r_empty-definition_(scalafundamentals)_12-32-40-155.md)
+Feb 12, 2025 12:32:40 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/.reports/metals-full/2025-02-12/r_empty-definition_(scalafundamentals)_12-32-40-155.md)
+Feb 12, 2025 12:32:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:32:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:33:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:33:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 12:34:04 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:34:04 INFO  time: compiled scalafundamentals in 0.18s[0m
+2025.02.12 12:34:21 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:34:21 INFO  time: compiled scalafundamentals in 0.14s[0m
+Feb 12, 2025 12:34:23 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/.reports/metals-full/2025-02-12/r_empty-definition_(scalafundamentals)_12-32-40-155.md)
+Feb 12, 2025 12:34:23 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/.reports/metals-full/2025-02-12/r_empty-definition_(scalafundamentals)_12-32-40-155.md)
+Feb 12, 2025 12:34:23 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/.reports/metals-full/2025-02-12/r_empty-definition_(scalafundamentals)_12-32-40-155.md)
+2025.02.12 12:34:23 INFO  compiling scalafundamentals (1 scala source)[0m
+Feb 12, 2025 12:34:24 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /home/ricardo/workspace/IABD/BDA/scalafundamentals/.metals/.reports/metals-full/2025-02-12/r_empty-definition_(scalafundamentals)_12-32-40-155.md)
+2025.02.12 12:34:23 INFO  time: compiled scalafundamentals in 0.22s[0m
+2025.02.12 12:34:38 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:34:38 INFO  time: compiled scalafundamentals in 0.87s[0m
+Feb 12, 2025 12:36:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:36:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:36:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:37:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:38:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:45:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:45:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:45:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:46:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:50:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:50:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:51:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:51:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:52:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:52:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:55:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:56:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:56:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:56:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:57:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:58:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:59:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 863
+Feb 12, 2025 12:59:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 864
+Feb 12, 2025 12:59:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 867
+2025.02.12 12:59:23 INFO  compiling scalafundamentals (1 scala source)[0m
+2025.02.12 12:59:23 INFO  time: compiled scalafundamentals in 0.64s[0m
+Feb 12, 2025 12:59:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 12:59:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 1:01:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 1:05:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 1:18:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 12, 2025 1:18:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.12 16:01:36 INFO  Shutting down server[0m
+2025.02.12 16:01:36 INFO  shutting down Metals[0m
+2025.02.12 16:01:36 INFO  Shut down connection with build server.[0m
+2025.02.12 16:01:36 INFO  Shut down connection with build server.[0m
+2025.02.12 16:01:36 INFO  Exiting server[0m

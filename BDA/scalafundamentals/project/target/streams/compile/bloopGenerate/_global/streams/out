@@ -1,0 +1,4 @@
+[debug] [scalafundamentals-build] Classpath dependencies List()
+[debug] [scalafundamentals-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalafundamentals-build' to '/home/ricardo/workspace/IABD/BDA/scalafundamentals/project/.bloop/scalafundamentals-build.json'
+[success] Generated .bloop/scalafundamentals-build.json
